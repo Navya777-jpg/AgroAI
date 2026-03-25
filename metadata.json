@@ -1,0 +1,5 @@
+{
+  "name": "AgroAI – Smart Pest & Disease Detection System",
+  "description": "AI-powered crop health monitoring with disease detection, treatment suggestions, and multi-language support.",
+  "requestFramePermissions": ["camera"]
+}
